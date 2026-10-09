@@ -1,0 +1,472 @@
+{
+  "nanyu": {
+    "file": "nanyu-raw-150mm.stl",
+    "units": "mm",
+    "pose": "initial idle pose, baked skinning and morphs",
+    "size": [
+      82.47987143240056,
+      38.28317799223471,
+      150
+    ],
+    "meshes": [
+      {
+        "name": "连续头腹鼻唇 · 无纹理",
+        "firstTriangle": 0,
+        "triangles": 45932
+      },
+      {
+        "name": "mesh-1",
+        "firstTriangle": 45932,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-2",
+        "firstTriangle": 46996,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-3",
+        "firstTriangle": 48060,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-4",
+        "firstTriangle": 49124,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-5",
+        "firstTriangle": 50188,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-6",
+        "firstTriangle": 51252,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-7",
+        "firstTriangle": 52316,
+        "triangles": 1064
+      },
+      {
+        "name": "mesh-8",
+        "firstTriangle": 53380,
+        "triangles": 1064
+      },
+      {
+        "name": "浅笑唇线",
+        "firstTriangle": 54444,
+        "triangles": 504
+      },
+      {
+        "name": "right-shoulder-cap",
+        "firstTriangle": 54948,
+        "triangles": 1064
+      },
+      {
+        "name": "right-hand",
+        "firstTriangle": 56012,
+        "triangles": 1064
+      },
+      {
+        "name": "right-arm",
+        "firstTriangle": 57076,
+        "triangles": 520
+      },
+      {
+        "name": "left-shoulder-cap",
+        "firstTriangle": 57596,
+        "triangles": 1064
+      },
+      {
+        "name": "left-hand",
+        "firstTriangle": 58660,
+        "triangles": 1064
+      },
+      {
+        "name": "left-arm",
+        "firstTriangle": 59724,
+        "triangles": 520
+      },
+      {
+        "name": "right-boot",
+        "firstTriangle": 60244,
+        "triangles": 6204
+      },
+      {
+        "name": "right-shin",
+        "firstTriangle": 66448,
+        "triangles": 320
+      },
+      {
+        "name": "left-boot",
+        "firstTriangle": 66768,
+        "triangles": 6204
+      },
+      {
+        "name": "left-shin",
+        "firstTriangle": 72972,
+        "triangles": 320
+      }
+    ],
+    "triangles": 73292,
+    "textures": "not included in STL",
+    "printable": "not yet validated"
+  },
+  "dbh": {
+    "file": "dbh-raw-150mm.stl",
+    "units": "mm",
+    "pose": "initial idle pose, baked skinning and morphs",
+    "size": [
+      40.253666966996164,
+      32.164122691884174,
+      150
+    ],
+    "meshes": [
+      {
+        "name": "dbh-soft-jersey-shirt",
+        "firstTriangle": 0,
+        "triangles": 13824
+      },
+      {
+        "name": "dbh-tapered-neck",
+        "firstTriangle": 13824,
+        "triangles": 6144
+      },
+      {
+        "name": "mesh-2",
+        "firstTriangle": 19968,
+        "triangles": 3840
+      },
+      {
+        "name": "mesh-3",
+        "firstTriangle": 23808,
+        "triangles": 480
+      },
+      {
+        "name": "dbh-continuous-anatomy",
+        "firstTriangle": 24288,
+        "triangles": 4800
+      },
+      {
+        "name": "mesh-5",
+        "firstTriangle": 29088,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-6",
+        "firstTriangle": 30096,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-7",
+        "firstTriangle": 30448,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-8",
+        "firstTriangle": 31456,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-9",
+        "firstTriangle": 31808,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-10",
+        "firstTriangle": 32816,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-11",
+        "firstTriangle": 33168,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-12",
+        "firstTriangle": 34176,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-13",
+        "firstTriangle": 34528,
+        "triangles": 1056
+      },
+      {
+        "name": "mesh-14",
+        "firstTriangle": 35584,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-15",
+        "firstTriangle": 35936,
+        "triangles": 3840
+      },
+      {
+        "name": "mesh-16",
+        "firstTriangle": 39776,
+        "triangles": 480
+      },
+      {
+        "name": "dbh-continuous-anatomy",
+        "firstTriangle": 40256,
+        "triangles": 4800
+      },
+      {
+        "name": "mesh-18",
+        "firstTriangle": 45056,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-19",
+        "firstTriangle": 46064,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-20",
+        "firstTriangle": 46416,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-21",
+        "firstTriangle": 47424,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-22",
+        "firstTriangle": 47776,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-23",
+        "firstTriangle": 48784,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-24",
+        "firstTriangle": 49136,
+        "triangles": 1008
+      },
+      {
+        "name": "mesh-25",
+        "firstTriangle": 50144,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-26",
+        "firstTriangle": 50496,
+        "triangles": 1056
+      },
+      {
+        "name": "mesh-27",
+        "firstTriangle": 51552,
+        "triangles": 352
+      },
+      {
+        "name": "dbh-continuous-skin-sculpt",
+        "firstTriangle": 51904,
+        "triangles": 60787
+      },
+      {
+        "name": "dbh-real-eyeball--1",
+        "firstTriangle": 112691,
+        "triangles": 2208
+      },
+      {
+        "name": "dbh-curved-brown-iris--1",
+        "firstTriangle": 114899,
+        "triangles": 2160
+      },
+      {
+        "name": "mesh-31",
+        "firstTriangle": 117059,
+        "triangles": 440
+      },
+      {
+        "name": "mesh-32",
+        "firstTriangle": 117499,
+        "triangles": 352
+      },
+      {
+        "name": "dbh-continuous-eyelid--1",
+        "firstTriangle": 117851,
+        "triangles": 1792
+      },
+      {
+        "name": "dbh-upper-lid-rim--1",
+        "firstTriangle": 119643,
+        "triangles": 768
+      },
+      {
+        "name": "dbh-lower-lid-rim--1",
+        "firstTriangle": 120411,
+        "triangles": 768
+      },
+      {
+        "name": "mesh-36",
+        "firstTriangle": 121179,
+        "triangles": 80
+      },
+      {
+        "name": "dbh-real-eyeball-1",
+        "firstTriangle": 121259,
+        "triangles": 2208
+      },
+      {
+        "name": "dbh-curved-brown-iris-1",
+        "firstTriangle": 123467,
+        "triangles": 2160
+      },
+      {
+        "name": "mesh-39",
+        "firstTriangle": 125627,
+        "triangles": 440
+      },
+      {
+        "name": "mesh-40",
+        "firstTriangle": 126067,
+        "triangles": 352
+      },
+      {
+        "name": "dbh-continuous-eyelid-1",
+        "firstTriangle": 126419,
+        "triangles": 1792
+      },
+      {
+        "name": "dbh-upper-lid-rim-1",
+        "firstTriangle": 128211,
+        "triangles": 768
+      },
+      {
+        "name": "dbh-lower-lid-rim-1",
+        "firstTriangle": 128979,
+        "triangles": 768
+      },
+      {
+        "name": "mesh-44",
+        "firstTriangle": 129747,
+        "triangles": 80
+      },
+      {
+        "name": "dbh-soft-lips-speaking",
+        "firstTriangle": 129827,
+        "triangles": 2688
+      },
+      {
+        "name": "dbh-recessed-mouth",
+        "firstTriangle": 132515,
+        "triangles": 80
+      },
+      {
+        "name": "mesh-47",
+        "firstTriangle": 132595,
+        "triangles": 352
+      },
+      {
+        "name": "mesh-48",
+        "firstTriangle": 132947,
+        "triangles": 352
+      },
+      {
+        "name": "dbh-sculpted-ear--1",
+        "firstTriangle": 133299,
+        "triangles": 2688
+      },
+      {
+        "name": "dbh-sculpted-ear-1",
+        "firstTriangle": 135987,
+        "triangles": 2688
+      },
+      {
+        "name": "mesh-51",
+        "firstTriangle": 138675,
+        "triangles": 59030
+      },
+      {
+        "name": "mesh-52",
+        "firstTriangle": 197705,
+        "triangles": 21622
+      },
+      {
+        "name": "mesh-53",
+        "firstTriangle": 219327,
+        "triangles": 52232
+      },
+      {
+        "name": "mesh-54",
+        "firstTriangle": 271559,
+        "triangles": 2160
+      },
+      {
+        "name": "dbh-continuous-anatomy",
+        "firstTriangle": 273719,
+        "triangles": 3520
+      },
+      {
+        "name": "dbh-sculpted-foot-and-toes",
+        "firstTriangle": 277239,
+        "triangles": 23907
+      },
+      {
+        "name": "mesh-57",
+        "firstTriangle": 301146,
+        "triangles": 1436
+      },
+      {
+        "name": "mesh-58",
+        "firstTriangle": 302582,
+        "triangles": 2200
+      },
+      {
+        "name": "mesh-59",
+        "firstTriangle": 304782,
+        "triangles": 9276
+      },
+      {
+        "name": "dbh-continuous-anatomy",
+        "firstTriangle": 314058,
+        "triangles": 3520
+      },
+      {
+        "name": "dbh-sculpted-foot-and-toes",
+        "firstTriangle": 317578,
+        "triangles": 23907
+      },
+      {
+        "name": "mesh-62",
+        "firstTriangle": 341485,
+        "triangles": 1436
+      },
+      {
+        "name": "mesh-63",
+        "firstTriangle": 342921,
+        "triangles": 2200
+      },
+      {
+        "name": "mesh-64",
+        "firstTriangle": 345121,
+        "triangles": 9276
+      },
+      {
+        "name": "dbh-tailored-shorts",
+        "firstTriangle": 354397,
+        "triangles": 45719
+      },
+      {
+        "name": "dbh-soft-shorts-hem",
+        "firstTriangle": 400116,
+        "triangles": 960
+      },
+      {
+        "name": "dbh-soft-shorts-hem",
+        "firstTriangle": 401076,
+        "triangles": 960
+      }
+    ],
+    "triangles": 402036,
+    "textures": "not included in STL",
+    "printable": "not yet validated"
+  }
+}

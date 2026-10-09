@@ -1,0 +1,30 @@
+{
+  "source": "nanyu-raw-150mm.stl",
+  "voxel_mm": 0.2,
+  "filled_faces_before_remesh": 12,
+  "components_before_speck_removal": [
+    1001792
+  ],
+  "removed_small_components": [],
+  "remaining_components": 1,
+  "boundary_edges": 0,
+  "non_manifold_edges": 0,
+  "signed_volume_mm3": 167165.88016226504,
+  "vertices": 1001792,
+  "faces": 1001792,
+  "base_mm": [
+    100,
+    58,
+    4
+  ],
+  "checks_not_performed": [
+    "minimum wall thickness",
+    "slicer validation",
+    "physical print"
+  ],
+  "overall_size_mm": [
+    99.99162292480469,
+    57.997161865234375,
+    153.49888610839844
+  ]
+}

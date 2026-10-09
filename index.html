@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="难鱼实体手办制作记录：模型、PETG 3D 打印、拆支撑与修复、丙烯上色、布基胶带修整及脚部固定。">
+  <title>把难鱼带到现实里 · 3D 打印制作教程</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="#">难鱼制作手记 <span>MAKING NOTES / 01</span></a><a href="#steps">查看制作步骤 <span aria-hidden="true">↗</span></a></header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">从屏幕里的角色，到桌上的小伙伴</p>
+        <h1>把难鱼<br>带到现实里<span class="dot">。</span></h1>
+        <p class="intro">一份亲手完成的 3D 打印记录。用 PETG 打出轮廓，再用颜料、胶带和一点耐心，让难鱼站在桌面上。</p>
+        <div class="stats"><div><strong>≈ 128 <small>g</small></strong><span>PETG 耗材</span></div><div><strong>≈ 10 <small>h</small></strong><span>打印用时</span></div><div><strong>06 <small>步</small></strong><span>从模型到成品</span></div></div>
+        <p class="fineprint">耗材和用时为这次制作的参考值；模型尺寸、支撑和切片参数不同，实际结果会变化。</p>
+        <a class="button" href="#steps">开始制作 <span aria-hidden="true">↓</span></a>
+      </div>
+      <figure class="hero-image"><img src="assets/finished-nanyu.jpg" alt="已经完成黑白上色、站在白色底座上的难鱼手办" fetchpriority="high"><figcaption><span>THE FINISHED PIECE</span> / 本次制作成品</figcaption></figure>
+    </section>
+
+    <section class="downloads" id="downloads">
+      <div class="section-heading"><div><p class="eyebrow">FILES & PROJECT</p><h2>模型和工程，都在这里</h2></div><span>下载后即可继续制作或修改</span></div>
+      <div class="download-grid">
+        <a href="models/nanyu-print.stl" download><span class="download-type">STL / 推荐打印文件</span><h3>难鱼 · 带底座模型</h3><p>轻量化修复版，毫米单位。角色约 150 mm，含底座总高约 153.5 mm。</p><span class="download-action">下载 STL ↓</span></a>
+        <a href="project/nanyu-editable.blend" download><span class="download-type">BLENDER / 可编辑工程</span><h3>继续修整你的难鱼</h3><p>保留高精度修复网格、材质和预览场景，可用 Blender 打开。</p><span class="download-action">下载工程 ↓</span></a>
+        <a href="models/original-models.zip" download><span class="download-type">ZIP / 原始模型备份</span><h3>保留每个阶段</h3><p>难鱼原始 STL、高精度带底座修复版，以及尚未修复的 DBH 原始人物模型。</p><span class="download-action">下载模型合集 ↓</span></a>
+        <a href="project/source-code.zip" download><span class="download-type">ZIP / 项目源码</span><h3>从源码重新出发</h3><p>当前游戏项目的已提交源码快照。提取与修复脚本、检查报告一并放在 project 目录。</p><span class="download-action">下载源码 ↓</span></a>
+      </div>
+      <p class="download-note">打印文件已检查：一个连通实体，开放边与非流形边均为 0。推荐文件为整理时生成的轻量版；本次实打所用高精度版保留在模型合集中。仍需在切片软件中检查支撑和逐层预览。DBH 原始模型不建议直接打印。</p>
+    </section>
+
+    <section class="prep" id="materials">
+      <div><p class="eyebrow">BEFORE YOU START</p><h2>先把这些准备好</h2></div>
+      <div class="materials"><p><b>打印</b>难鱼模型文件、切片软件、3D 打印机、PETG 耗材</p><p><b>后处理</b>剪钳、打磨工具或砂纸、电烙铁</p><p><b>装饰与固定</b>丙烯颜料、画笔、黑色布基胶带、黑胶</p></div>
+    </section>
+
+    <section class="steps" id="steps">
+      <div class="section-heading"><div><p class="eyebrow">THE PROCESS</p><h2>一步一步，做出难鱼</h2></div><span>打印 → 修整 → 上色 → 固定</span></div>
+      <article class="step"><span class="number">01</span><div class="step-body"><p class="tag">MODEL</p><h3>准备模型</h3><p>准备修复后的难鱼 STL 模型，导入切片软件。本次使用带底座版本；导入后确认尺寸和摆放方向，让底座平放在打印平台上。</p><p class="note">STL 只保存形状，不保存黑白材质。本次先用单色耗材打印，之后手工上色。</p></div></article>
+      <article class="step"><span class="number">02</span><div class="step-body"><p class="tag">SLICE & PRINT</p><h3>切片，开始 3D 打印</h3><p>根据打印机与 PETG 耗材设置切片参数，为手臂、手部、下巴等悬垂区域安排支撑。切片后先查看逐层预览，确认模型和支撑完整，再开始打印。</p><div class="inline-stats"><span>本次耗材 <b>约 128 g PETG</b></span><span>本次打印 <b>约 10 小时</b></span></div><p>打印完成后，等模型和平台冷却，再取下模型。</p><figure class="process-image"><img src="assets/print-with-supports.jpg" alt="打印完成的白色难鱼，面部及四肢周围仍有树状支撑，底部有打印附着结构" loading="lazy"><figcaption><span>PRINT / 01</span> 刚打印完成：图中前方的大柱和分叉结构是支撑，需要在下一步拆除。</figcaption></figure></div></article>
+      <article class="step"><span class="number">03</span><div class="step-body"><p class="tag">CLEAN UP & REPAIR</p><h3>拆支撑、打磨，修复薄弱处</h3><p>用剪钳分段拆除支撑，清理底座周围的附着结构。靠近眼睛、手臂和脚踝时，一手扶住模型，一手剪断连接点，避免直接拉扯细小部件。</p><p>打磨支撑接触点、毛刺和明显的表面凸起。容易断裂或已经开裂的位置，用电烙铁局部热熔修复，待冷却后再修整。</p><p class="note">电烙铁先在废支撑上试一下，短时、轻触操作，避免烫塌外形；在通风处处理，不用手触碰烙铁头或未冷却的塑料。</p></div></article>
+      <article class="step"><span class="number">04</span><div class="step-body"><p class="tag">ACRYLIC PAINT</p><h3>用丙烯颜料上色</h3><p>清理打磨产生的粉尘，确认表面干燥后，用丙烯颜料给角色上色。按照成品的黑白配色，重点处理眼睛、嘴线、手臂、手部以及小腿和鞋子。</p><p>薄涂多次，逐层等干，避免厚涂遮住五官细节。涂黑时注意边缘，尽量不要蹭到白色身体和底座。</p></div></article>
+      <article class="step"><span class="number">05</span><div class="step-body"><p class="tag">DETAIL FINISHING</p><h3>颜料干透后，用黑色布基胶带修整</h3><p>等丙烯颜料干透，将黑色布基胶带裁成适合的窄条或小片，用于需要修整的黑色部位，整理边缘并遮住不够整齐的位置。</p><p>贴好后轻轻压实，剪掉多余部分，避免胶带盖住五官或改变原有轮廓。</p></div></article>
+      <article class="step"><span class="number">06</span><div class="step-body"><p class="tag">FINAL ASSEMBLY</p><h3>脚部打黑胶固定，完成</h3><p>最后在脚与底座连接处打上黑胶，补强固定。控制胶量，整理外溢的胶，让底座保持干净。</p><p>按照所用胶的说明等待固化，期间保持模型稳定。固化后检查脚部是否牢固，清理残留，就可以摆上桌面了。</p><p class="note">“黑胶”沿用本次制作的称呼；选择能粘接 PETG 和底座的胶，固化时间以产品说明为准。</p></div></article>
+    </section>
+
+    <section class="finish"><figure><img src="assets/finished-nanyu.jpg" alt="拆除支撑并完成黑白配色和脚部固定后的难鱼成品" loading="lazy"></figure><div><p class="eyebrow">HELLO, REAL WORLD.</p><h2>难鱼，<br>正式入住桌面。</h2><p>打印给它形状，手工给它表情。保留下来的层纹和修整痕迹，也是这次制作的一部分。</p><p class="finish-caption">本次实拍成品 · PETG 打印 / 丙烯上色 / 手工修整</p><a href="#steps" class="text-link">回看制作步骤 ↑</a></div></section>
+  </main>
+  <footer><span>难鱼 · 3D 打印制作教程</span><span>根据本次实际制作步骤与实拍照片整理</span></footer>
+</body>
+</html>

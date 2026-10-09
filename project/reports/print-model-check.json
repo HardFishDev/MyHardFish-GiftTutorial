@@ -1,0 +1,15 @@
+{
+  "file": "models/nanyu-print.stl",
+  "units": "mm",
+  "components": 1,
+  "boundary_edges": 0,
+  "non_manifold_edges": 0,
+  "signed_volume_mm3": 167165.2088416936,
+  "faces": 242396,
+  "dimensions_mm": [
+    99.99163818359375,
+    57.997230529785156,
+    153.4993896484375
+  ],
+  "operation": "decimate repaired mesh to 15% for distribution; original preserved in original-models.zip"
+}
